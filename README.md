@@ -1,1 +1,1 @@
-# WWii
+# World War II dataset
